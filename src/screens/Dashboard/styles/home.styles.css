@@ -1,0 +1,58 @@
+.tablescontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tables {
+  height: 30rem;
+  width: 90%;
+  margin-bottom: 50px;
+}
+
+.tiles {
+  -webkit-box-shadow: 0px 0px 6px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 6px -3px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 6px -3px rgba(0, 0, 0, 0.75);
+  padding: 10px;
+  height: 80%;
+  border-radius: 10px;
+  width: 90%;
+  margin-bottom: 50px;
+}
+
+.tilesDiv{
+	-webkit-box-shadow: 0px 0px 6px -3px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 0px 0px 6px -3px rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 0px 6px -3px rgba(0, 0, 0, 0.75);
+	width: 15rem;
+	height: 10rem;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	padding: 10px;
+	line-break: normal;
+}
+
+.header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+  
+}
+
+.search_input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 20rem;
+	border-color: beige;
+	height: 35px;
+	border-radius: 10px;
+
+}
